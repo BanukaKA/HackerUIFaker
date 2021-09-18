@@ -1,6 +1,6 @@
 # HackerUIFaker
 #Banuka KA
-#CMD
+#CMD 
 #Python
 
 A simulator with a few commands displays a hacking like interface
